@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="add">Thêm</string>
+    <string name="delete">Xoá</string>
+    <string name="edit">Chỉnh sửa</string>
+</resources>
